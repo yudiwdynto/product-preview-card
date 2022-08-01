@@ -118,7 +118,7 @@ body {
 .cart {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  border: .063rem solid var(--dark-cyan);
+  border: none;
   border-radius: var(--radius);
   background-color: var(--dark-cyan);
   color: var(--white);
